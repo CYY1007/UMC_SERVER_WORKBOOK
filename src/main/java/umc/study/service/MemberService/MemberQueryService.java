@@ -7,4 +7,5 @@ import java.util.Optional;
 public interface MemberQueryService {
 
     Optional<Member> findMember(Long id);
+
 }
