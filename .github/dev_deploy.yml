@@ -1,4 +1,4 @@
-name: Breifing Dev CI/CD
+name: UMC Dev CI/CD
 
 on:
   pull_request:
